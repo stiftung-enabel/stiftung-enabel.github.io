@@ -1,0 +1,167 @@
+﻿<!--#include virtual='header.tmpl' -->
+
+
+<div>
+
+<h1>Formulaire de demande</h1>
+
+<p>
+  <a href='Antragsformular_FR.pdf'>Formulaire de demande</a>
+</p>
+
+<h1>Les projets soutenus</h1>
+
+<p>
+	La Fondation a soutenu jusqu’à présent les projets suivants:
+</p>
+
+
+</div>
+
+
+
+
+
+
+
+
+<table>
+<tr>
+	    <td class='bold'>Avril<br> 2014</td>
+	    <td>
+	  <b>Freiluftlichtbildschaukommission (FliK)</b><br>
+La Freiluftbildschau (Littéralement: ‚La mise en scène photographique en plein air‘) est un cinéma en plein air traditionnel qui s’est présenté déjà pour la dixième fois sur le Campus EPFZ Hönggerberg. Les séances ont lieu le 20 et  21 mai 2014, c’est-à-dire, deux semaines avant la fin du semestre. C’est l’Association d’étudiants de l‘EPFZ Zurich (VSETH) qui organise le cinéma. Afin de proposer une très belle fin de semestre aux étudiants, l’entrée est gratuite ainsi que l’on essaie d’assurer la présentation au moins d‘une avant-première par an. Environ 1000 spectateurs assistent chaque soir à la séance.
+	  <br>
+	  <br>
+	  <a href="http://www.freiluft.ethz.ch/">www.freiluft.ethz.ch</a>
+	  </td>
+	  </tr>
+
+
+
+
+
+<tr>
+	    <td class='bold'>Décembre<br> 2013</td>
+	    <td>
+	  <b>Projecteur de cinéma numérique pour la Filmstelle de VSETH</b><br>
+La Filmstelle est un comité de l’Association d’étudiants de l’EPFZ (VSETH). Depuis sa création en 1924, il montre régulièrement des films prestigieux et plaisants. La Filmstelle se considère en tant que partie intégrante de la vie culturelle de l’ETH Zurich. Tous les films sont projetés en ce moment de manière analogique par un projecteur 35mm. Étant donné que les nouveaux films à partir de 2010 n’apparaissent que dans format numérique et les films 33mm ne seront plus restaurés expirant ainsi lentement, l’existence du plus vieux cinéma Art et Essai est profondément remise en cause. La Fondation e-na’bel soutient à cet effet la Filmstelle, permettant l’achat d’un nouveau projecteur de cinéma numérique. 
+	  <br>
+	  <br>
+	  <a href="http://www.filmstelle.ch/">www.filmstelle.ch</a>
+	  </td>
+	  </tr>
+
+
+
+
+<tr>
+	    <td class='bold'>Novembre<br> 2013</td>
+	    <td>
+	  <b>UAEM Conférence Européenne 2014 à Bâle</b><br>
+L’UAEM (Universités Alliées pour les Médicaments Essentiels) est un réseau interdisciplinaire d’étudiants qui s’engage à l’échelle internationale ainsi que locale (universités) pour la santé globale  et l’accès juste aux médicaments essentiels dans les pays en voie de développement. La Conférence Européenne de l’UAEM à Bâle sert comme plateforme aux divers groupes de projets provenant des différents pays en offrant des exposés des experts (MSF, OMS) et des ateliers thématiques pour approfondir leurs connaissances sur le thème, pour échanger leurs expériences et leurs idées ainsi que pour initier des nouveaux projets communs. Elle est ainsi d’une part un lieu de réseautage et d’autre part un think tank des étudiants pour faire face aux problèmes mondiaux de la politique sanitaire d’une façon novatrice. 
+	  <br>
+	  <br>
+	  <a href="http://www.uaem-europe.org/">www.uaem-europe.org</a>
+	  </td>
+	  </tr>
+
+
+
+	  <tr>
+	    <td class='bold'>Mai<br> 2013</td>
+	    <td>
+	  <b>SPOD - Student Print on Demand (L’impression à la demande pour les étudiants)</b><br>
+Depuis plusieurs années, l‘SPOD offre un appui indispensable aux étudiants motivés et ambitieux de l’EPF Zurich. Encore récemment, ils ont fait des efforts importants afin de rendre l’association plus durable en matière de l’organisation, de l’infrastructure et de l’équipement du personnel. Grâce au soutien de la Fondation e-na’bel, l’SPOD a élargi ses offres en achetant une machine spéciale pour la coupe automatique. Ils continuent ainsi de contribuer à l‘organisation efficace et au bon déroulement des études à l’EPFZ. <br>
+	  <br>
+	  <a href="https://shop.spod.ethz.ch/spod">shop.spod.ethz.ch/spod</a>
+	  </td>
+	  </tr>
+
+	  <tr>
+	    <td class='bold'>Avril<br> 2013</td>
+	    <td>
+	  <b>VSOS - SOSETH virtual machine hosting</b><br>
+	Le „Projet VSOS“ a pour but de rendre disponible des serveurs virtuels gratuitement aux étudiants et aux associations d’étudiants. Ils peuvent ainsi par exemple gérer leur propre server Web ou mail, ou voire déposer ou publier leurs documents et programmes. L’accès à cette technologie doit permet aux étudiants notamment d’apprendre et de pratiquer le maniement correct de celle-ci, par exemple la gestion d’un serveur Linux ou des clusters, sous la tutelle de l’équipe administrative de VSOS.<br/>  
+
+	La Fondation e-na’bel a soutenu la tenue de cet atelier mené par l’EESTEC.<br>
+	  <br>
+	  <a href="http://sos.ethz.ch/ressorts/vsos/">sos.ethz.ch/ressorts/vsos/</a>
+	  </td>
+	  </tr>
+
+  <tr>
+    <td class='bold'>Avril<br> 2013</td>
+    <td>
+  <b>EESTEC LC Zürich</b><br>
+  EESTEC ist eine nicht politische, non-profit Organisation von und für Studenten der Fächer Elektrotechnik, Informatik und Maschinenbau aus Universitäten in ganz Europa. EESTEC LC Zürich führt 2013 einen Workshop mit dem Motto Slot Engines Xtreme durch. Es geht dabei darum einen Elektromotor für einen Siot Car zu bauen. Am Ende der Woche können die gebauten Fahrzeuge auf einer Rennbahn im Wettkampf getestet werden.<br/>  
+  
+Die Stiftung e-na'bel hat die Durchführung dieses Workshops von EESTEC unterstützt.<br>
+  <br>
+  <a href="http://eestec.net/lc/zurich">eestec.net/lc/zurich</a>
+  </td>
+  </tr>
+
+
+<tr>
+  <td class='bold'>Mars<br> 2012</td>
+  <td>
+<b>Sandwich bar d’étudiants <i>ETZetera</i></b><br>
+L’ETZetera est un sandwich bar d’étudiants au sein du bâtiment ETZ de l’EPF Zurich qui propose une offre de restauration de haute qualité à des prix abordables pour les étudiants. Malgré les prix bas, nous attachons de l’importance aux ingrédients frais et de grande qualité. Tous les sandwichs sont fraîchement faits à la main des volontaires avant d’être vendus.<br/>
+La Fondation e-na’bel a soutenu la réalisation du sandwich bar ETZetera.<br>
+<br>
+<a href="http://www.etzetera.ch">www.etzetera.ch</a>
+</td>
+</tr>
+
+
+<tr>
+  <td class='bold'>Décembre <br> 2011</td>
+  <td>
+<b>La Nouvelle Composition de l‘Orchestre Académique de Zurich à l’occasion de sa tournée canadienne</b><br>
+L’Académie d’Orchestre de Zurich (AOZ) est l‘orchestre symphonique de l’EPFZ et de l’Université Zurich et donc ouverte à tous les étudiants et assistants du corps universitaire commun. Son excellent niveau technique et musical permet de compter l’AOZ parmi les meilleurs orchestres amateurs de Suisse. Il travaille régulièrement sur des grandes œuvres sous forme d’orchestre ainsi que de concert solo. Un but déclaré de l’association est de pouvoir présenter des jeunes solistes prometteurs et prometteuses au grand public. L’orchestre participe également aux cérémonies universitaires. Lors de plusieurs tournées à l’étranger, l’AOZ a déjà pu présenter des réussites importantes, notamment à Prague, Vienne, Amsterdam, Copenhague, Milan, Imola, Rome, Osaka, Tokyo, Kula Lumpur et au Singapour. Du 2 au 14 juillet 2012, l’AOZ va partir en tournée au Canada où il présentera  entre autres la nouvelle composition qui a été composée particulièrement pour l’AOZ par le jeune compositeur canadien Eric Champagne. La Fondation e-na’bel a cofinancé une partie de la composition puisque selon notre point de vue c’est le plus ancien investissement du projet.
+
+<br><br>
+<a href="http://www.aoz.ethz.ch/">www.aoz.ethz.ch/</a>
+</td>
+</tr>
+
+
+<tr>
+  <td class='bold'>Novembre<br> 2011</td>
+  <td>
+<b>Fraise PCB pour le laboratoire d’électronique d’étudiants <i>Bastli</i></b><br>
+Le <i>Bastli</i> est le comité de l’Association académique des ingénieurs en mécanique et en électronique de l’EPFZ qui permet aux étudiants un très bon accès au côté pratique des études. Il maintient un laboratoire d’électronique comprenant les appareils de mesure modernes, beaucoup d‘équipement du laboratoire et d’autres outils. En plus, les étudiants profitent bien d’une grande expertise et d’un magasin où ils peuvent acheter des éléments de construction. Ils peuvent désormais fabriquer des circuits imprimés de manière efficace et peu coûteuse, grâce à la nouvelle fraise PCB qui a été cofinancé par la Fondation e-na’bel.<br>
+<br>
+<a href="http://www.bastli.ethz.ch">www.bastli.ethz.ch</a>
+</td>
+</tr>
+
+
+<tr>
+  <td class='bold'>Janvier <br> 2011</td>
+  <td>
+<b>Netzwerkbar</b><br>
+Le <i>Netzwerkbar</i> est une association visée à promouvoir les rapports interpersonnels dans la cité universitaire Bülachstrasse. Suivant l’esprit de non profit, le bar est organisé par les étudiants volontaires en offrant chaque mercredi des boissons à des prix modérés. Le bar a pour but de créer une ambiance de détente afin d’oublier des problèmes quotidiens de la vie estudiantine et de donner l’occasion à faire connaissance avec les autres résidents.<br> 
+Toutefois, le temps a laissé des traces d’usure tout au long du bar et des meubles, nécessitant clairement une rénovation. La Fondation e-na’bel a assisté en partie à la rénovation.
+</td>
+</tr>
+
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--#include virtual='footer.tmpl' -->
+

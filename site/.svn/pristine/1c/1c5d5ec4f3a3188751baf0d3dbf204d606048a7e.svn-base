@@ -1,0 +1,81 @@
+<!--#include virtual='header.tmpl' -->
+
+<div>
+<h1>Die Stiftung e-na'bel</h1>
+<p>
+Die Stiftung wurde 2010 ins Leben gerufen und geht aus dem ehemaligen Verlag des AMIV (Akademischer Maschinen- und Elektro-Ingenieur-Verein) der ETH Zürich hervor. Zweck der Stiftung ist die Förderung von studentischen Projekten und Aktivitäten an Schweizerischen Hochschulen.
+</p>
+
+<p><a href="2010.02.03_Statuten_enabel.pdf">Die Statuten als PDF</a>.</p>
+
+
+  <h1>Der Stiftungsrat</h1>
+  <p>
+  Der Stiftungsrat setzt sich aktuell aus folgenden Personen zusammen:
+  </p>
+  <p>
+  Valentin Keller<br/>
+  Angela Mühlenbroich<br/>
+  Justus Lambrecht<br/>
+  Marco Jakob<br/>
+  Mazenod Jaccomuthu<br/>
+  Samuel Keller<br/>
+  Raphael Rotondari<br/>
+  </p>
+
+
+
+
+<h1>Geschichte</h1>
+
+<table>
+<tr>
+  <td class='bold'>2010</td>
+  <td>Die Stiftung e-na’bel ist gegründet und der Stiftungsrat hat seine Arbeit aufgenommen. Der AMIV-Verlag widmet sein Vermögen der Stiftung e-na’bel und löst sich definitiv auf.</td>
+</tr>
+
+<tr>
+  <td class='bold'>2008</td>
+  <td>Die Gründung der Stiftung und die Schenkung des Vereinsvermögens wurde beschlossen und der initiale Stiftungsrat gewählt.</td>
+</tr>
+
+<tr>
+  <td class='bold'>2007</td>
+  <td>Die Ausgliederung von CDR und WBS ist abgeschlossen und der Verein verwaltet nun nur noch sein Eigenvermögen.</td>
+</tr>
+
+<tr>
+  <td class='bold'>2005</td>
+  <td>Die Nachfrage für die Dienstleistung CDR ist stark rückläufig und das WBS ist den Umstrukturierungen an der ETH und dem Volumen nicht mehr gewachsen. Der Verein kämpft gegen das Vorurteil, zum AMIV zu gehören, was die Zusammenarbeit mit allen Parteien innerhalb des VSETH erschwert und teilweise verunmöglicht. Zudem hat der AMIV-Verlag keinen „offiziellen“ Status innerhalb der ETH, da er weder zum VSETH gehört, noch eine Partnerorganisation dessen ist. So wird die Strategie dahingehend geändert, dass der CDR dem SoS eingegliedert werden soll, der bereits ebenfalls die Bearbeitung analoger/digitaler Medien anbietet. Zudem wird die Neuerstellung des WBS vorbereitet und diese dem VSETH eingegliedert. Ziel dieser Abstossung sämtlicher Dienstleistungen ist die Schenkung des Vereinsvermögens an eine zu gründende Stiftung welche das Geld verwalten und in angemessener Form wieder der Studentenschaft zurückführen soll.</td>
+</tr>
+
+<tr>
+  <td class='bold'>2000</td>
+  <td>Da die Kalkulierung und Planung für den Verlag von Büchern und Skripten sehr aufwändig und risikoverbunden war, wurde eine neue Dienstleistung WBS (Web Based Services) gegründet, welche Studienmaterial für die Prüfungsvorbereitung anbot. Der Verlag setzte damit erstmals auf print-on-demand was die Kosten sowohl für Studenten als auch für den Verein senkte.</td>
+</tr>
+
+<tr>
+  <td class='bold'>90er&nbsp;Jahre</td>
+  <td>Die Dienstleistung CDR (CD Recording) wurde gegründet, welche das Erstellen von CDs und allgemein das Digitalisieren von analogen Medien (Film, Ton) ermöglichte.</td>
+</tr>
+
+<tr>
+  <td class='bold'>70er&nbsp;Jahre</td>
+  <td>Da der AMIV-Verlag ein grosses Vermögen seit seiner Gründung erwirtschaftet hat war der Verlag als Kommission des AMIV nicht mehr tragbar und so wurde ein eigenständiger Verein gegründet und die Verlagstätigkeit aus dem AMIV ausgegliedert.</td>
+</tr>
+
+<tr>
+  <td class='bold'>60er&nbsp;Jahre</td>
+  <td>Gründung des SAB durch den AMIV-Verlag um Skripte zu verkaufen.</td>
+</tr>
+
+<tr>
+  <td class='bold'>1909</td>
+  <td>Der Verlag des AMIV an der ETH gibt sein erstes Skript heraus. Der Verlag war zuständig für den Druck von Vorlesungsskripten.</td>
+</tr>
+
+</table>
+
+</div>
+
+<!--#include virtual='footer.tmpl' -->

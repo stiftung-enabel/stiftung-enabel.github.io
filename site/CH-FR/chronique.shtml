@@ -1,0 +1,81 @@
+<!--#include virtual='header.tmpl' -->
+
+<div>
+<h1>La Fondation e-na’bel</h1>
+<p>
+La Fondation a été créée en 2010, succédant l’ancienne maison d’édition de l’AMIV (Association académique d’ingénieurs en mécanique et en électronique) de l’EPFZ. Ella a pour but de promouvoir des projets et des activités des étudiants des universités en Suisse.
+</p>
+
+<p><a href="../2010.02.03_Statuten_enabel.pdf">Les statuts en PDF (en Allemand)</a>.</p>
+
+
+  <h1>Le Conseil de fondation</h1>
+  <p>
+  Le Conseil de fondation se compose actuellement des personnes suivantes:
+  </p>
+  <p>
+  Valentin Keller<br/>
+  Angela Mühlenbroich<br/>
+  Justus Lambrecht<br/>
+  Mazenod Jaccomuthu<br/>
+  Samuel Keller<br/>
+  Raphael Rotondari<br/>
+  Lorenzo De Pietro<br/>
+  </p>
+
+
+
+
+<h1>Chronique</h1>
+
+<table>
+<tr>
+  <td class='bold'>2010</td>
+  <td>La fondation a été créée et le Conseil de fondation a assumé ses tâches. La maison d’édition de l’AMIV transfère sa fortune à la Fondation e-na’bel et elle est dissolue de manière définitive.</td>
+</tr>
+
+<tr>
+  <td class='bold'>2008</td>
+  <td>La décision relative à la création de la fondation ainsi que relative à la donation de l’ensemble de la fortune a été prise, également le premier Conseil de fondation a été élu.</td>
+</tr>
+
+<tr>
+  <td class='bold'>2007</td>
+  <td>La dissociation d’CDR et de WBS a été finalisée. Désormais, l’association ne gère que sa propre fortune.</td>
+</tr>
+
+<tr>
+  <td class='bold'>2005</td>
+  <td>La demande pour le service CDR a fortement baissé. Le WBS n’est plus en mesure de s’adapter au volume et aux restructurations au sein de l’EPFZ. L’association lutte contre le préjugé de faire partie de l’AMIV ce qui rend la collaboration avec toutes les parties au sein de la VSETH difficile ou même en partie impossible. De plus, l‘éditeur d’AMIV n’a pas de statut „officiel“ au sein de l’EPFZ parce qu’il n’appartient ni à la VSETH ni il est une de ses organisations partenaires. La stratégie doit être modifiée en intégrant le CDR dans l‘SOS qui offre déjà des traitements des médias numériques et argentiques. En outre, la reconstruction de WBS est en train d’être préparée afin de l’intégrer dans la VSETH. La résiliation de l’ensemble des services a pour objectif  de transférer la fortune de l’association à une fondation qui devra être établie pour gérer de l’argent et pour en retourner à la communauté des étudiants d’une façon équitable.</td>
+</tr>
+
+<tr>
+  <td class='bold'>2000</td>
+  <td>Comme le planning et le calcul des coûts pour les livres et les notes de conférences étaient très lourd et hasardeux, l’éditeur a lancé le nouveau service sur Web (WBS – Web Based Services) pour offrir des ressources d’apprentissage. L’éditeur a donc choisi pour la première fois ‚l’impression à la demande‘, diminuant les frais non seulement pour les étudiants mais aussi pour l’association.</td>
+</tr>
+
+<tr>
+  <td class='bold'>Les années 90</td>
+  <td>Le service CDR est lancé facilitant non seulement la création des CDs mais aussi généralement la numérisation des médias analogiques (film, audio).</td>
+</tr>
+
+<tr>
+  <td class='bold'>Les années 70</td>
+  <td>Depuis sa création, la maison d’éditions de l’AMIV a généré une grosse fortune. Son affiliation à l’AMIV en tant que simple comité était désormais intolérable, conduisant à la création d’une association indépendante externalisant l’édition.</td>
+</tr>
+
+<tr>
+  <td class='bold'>Les années 60</td>
+  <td>Fondation de SAB par la maison d’éditions de l’AMIV afin de vendre les notes de conférences.</td>
+</tr>
+
+<tr>
+  <td class='bold'>1909</td>
+  <td>L’éditeur de l’AMIV à l’EPF Zurich a publié sa première note de conférence. Il est chargé de l’impression des notes de conférences.</td>
+</tr>
+
+</table>
+
+</div>
+
+<!--#include virtual='footer.tmpl' -->

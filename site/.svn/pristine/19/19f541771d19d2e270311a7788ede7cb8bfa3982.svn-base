@@ -1,0 +1,23 @@
+﻿<!--#include virtual='header.tmpl' -->
+
+<div>
+  <h1>Adresse postale</h1>
+  <p>
+  Stiftung e-na'bel<br/>
+  c/o Raphael Rotondari<br/>
+  Leutholdstrasse 9<br/>
+  8037 Zürich<br/>
+  </p>
+
+
+
+<br>
+Toi aussi tu souhaites que nous soutenions ton projet? N’hésite donc pas à remplir <a href="Antragsformular_FR.pdf">le formulaire de demande</a> et envoies tous les documents à <b>antrag ät enabel.ch</b>!
+
+
+
+
+
+</div>
+
+<!--#include virtual='footer.tmpl' -->

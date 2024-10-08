@@ -1,0 +1,18 @@
+<!--#include virtual='header.tmpl' -->
+
+<div>
+  <h1>Stiftungsrat</h1>
+  <p>
+	Unser aktueller Stiftungsrat setzt sich aus folgenden Personen zusammen:
+	</p>
+	<p>
+  Justus Lambrecht<br/>
+  Marcel Strittmatter<br/>
+  Marco Jakob<br/>
+  Mazenod Jaccomuthu<br/>
+  Samuel Keller<br/>
+  Valentin Keller<br/>
+  </p>
+</div>
+
+<!--#include virtual='footer.tmpl' -->

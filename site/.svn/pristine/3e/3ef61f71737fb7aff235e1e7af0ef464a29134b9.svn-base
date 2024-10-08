@@ -1,0 +1,69 @@
+<!--#include virtual='header.tmpl' -->
+
+<div>
+	
+	
+	<h1>Hast Du eine gute Idee? Und fehlt Dir das nötige Startkapital?</h1>
+
+	<p>
+		<p>
+		Dann bist Du bei uns genau richtig.
+		Die Stiftung e-na'bel bietet finanzielle Unterstützung (à fonds perdu) für innovative und nachhaltige Projekte auf Initiative von Studierenden an schweizerischen Hochschulen.
+	</p>
+	<p>	Wenn Deine Idee
+		<ul>
+			<li>Innovationscharakter besitzt...
+			<li>Vielen Studierenden zugute kommt...
+			<li>Nachhaltig und über längere Zeit erhalten bleibt...
+			<li>Das studentische Leben fördert...
+			<li>Das Studium mit Hilfsmitteln erleichtert...
+			<li>...und keine rauschende Party ist...	
+		</ul>
+		...dann müssen wir uns kennenlernen. Formuliere Deine Idee aus und schicke sie zusammen mit einem Finanzierungsplan an uns. <a href="Antragsformular.pdf">Hier geht es zur Bewerbung</a>.
+	</p>
+	<p>Eine Übersicht über unterstützte Ideen findest Du <a href="projekte.shtml">hier</a>.
+	</p>
+<!--
+<h1>News</h1>
+
+ <div id="fruehlingsaktion">
+<div>
+  <b>20.3.2013</b><br/>Frühlingsaktion 2013:<br/>
+  Jedes Projekt welches bis Ende Mai 2013 unterstützt wird, erhält zusätzlich eine Frühlingsüberraschung! Jetzt zugreifen!
+</div>
+</div
+
+<p>
+  <b>15.6.2013</b><br/>Dreifach gut<br/>
+  Ob Elektromotoren, virtuelle Server oder eine Schneidemaschine für Flyer - e-na'bel unterstützt und macht aus einem Traum eine Realität.
+  <br>
+  Passt Dein Projekt auch dazu? <a href="projekte.shtml">Stöbere in den umgesetzten Projekten</a>, wir <a href="kontakt.shtml">freuen</a> uns auf Deine Idee.
+</p>
+
+
+<p>
+  <b>22.1.2013</b><br/>Neues Jahr<br/>
+  Reiche Deine Idee bei uns ein und beantrage eine Startunterstützung. Je früher im Jahr desto besser. Wir freuen uns auf Deine zündende Idee!
+</p>
+
+<p>
+  <b>1.3.2012</b><br/>Neue Projekte:<br/>
+Die <a href="http://etzetera.ch">Sandwichbar Etzetera</a>, die leckere Sandwiches für Studenten herstellt, kommt in den Genuss einer Unterstützung durch die Stiftung e-na'bel.
+</p>
+
+<p>
+  <b>19.3.2011</b><br/>Die Stiftung e-na'bel stellt sich und ihre Ziele am Fachvereinsrat (FR) an der ETH Zürich vor:<br/>
+Am 3. Mai 2011 um 18 Uhr im CAB G56. Die Stiftungsräte Justus Lambrecht und Valentin Keller werden persönlich anwesend sein.
+</p>
+
+
+
+<p>
+  <b>01.12.2010</b><br/>Das Projektantragsformular ist nun online: <a href='projekte.shtml' alt='Projekte'>Siehe Seite Projekte</a>
+</p>
+
+
+-->
+</div>
+
+<!--#include virtual='footer.tmpl' -->

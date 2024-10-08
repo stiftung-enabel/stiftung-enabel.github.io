@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+<meta charset="utf-8" />
+<title>Fondation e-na'bel</title>
+
+<style type="text/css">
+  body { line-height: 1.4em; padding: 2em; background: #fff; font-family: Verdana, Arial, sans-serif; font-size: 12px; }
+  h1 { color: #999; border-bottom: 1px solid #ddd; line-height: 2em; font-size: 1.3em; font-weight: bold; }
+  
+	.navig { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; }
+	.navig a { border: 1px solid #999; width: 100px; padding: 0.8em; background: #88ba14; text-decoration: none; color: #eee; font-weight: bold; }
+  .content { max-width: 800px; margin-left: auto; margin-right: auto; }
+  .logo { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; margin-bottom: 1em; }
+  .footer { border-top: 1px solid #88ba14; padding-top: 1em; color: #ccc; }
+  .bold { font-weight: bold; color: #88ba14; }
+  
+  table { width: 100%; border-collapse: collapse; }
+  table tr { border-bottom: 1px solid #88ba14; border-top: 1px solid #88ba14; }
+  table td { vertical-align: top; padding: 0.5em; }
+  #weihnachtsaktion {
+	  display: block;
+	  background-color:red;
+	  border: 2px dotted yellow;
+  }
+  #weihnachtsaktion div {
+	  display: block;
+	  background-color: white;
+  }
+</style>
+
+</head>
+
+<body>
+
+<div class='content'>
+
+<div class='logo'>
+  <img src='http://www.enabel.ch/img/enabel_mittel.png' />
+</div>
+
+<div class='navig'>
+	<a href='fondation.shtml'>Bienvenue</a>
+	<a href='projet.shtml'>Les projets soutenus</a>
+	<a href='chronique.shtml'>La Fondation e-na’bel</a>
+	<a href='contact.shtml'>Contact</a>
+</div>
+
