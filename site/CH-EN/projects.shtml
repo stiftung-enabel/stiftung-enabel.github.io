@@ -1,5 +1,62 @@
 ﻿<!--#include virtual='header.tmpl' -->
 
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+<meta charset="utf-8" />
+<title>Stiftung e-na'bel</title>
+
+<style type="text/css">
+  body { line-height: 1.4em; padding: 2em; background: #fff; font-family: Verdana, Arial, sans-serif; font-size: 12px; }
+  h1 { color: #999; border-bottom: 1px solid #ddd; line-height: 2em; font-size: 1.3em; font-weight: bold; }
+  
+	.navig { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; }
+	.navig a { border: 1px solid #999; width: 100px; padding: 0.8em; background: #88ba14; text-decoration: none; color: #eee; font-weight: bold; }
+  .content { max-width: 800px; margin-left: auto; margin-right: auto; }
+  .logo { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; margin-bottom: 1em; }
+  .footer { border-top: 1px solid #88ba14; padding-top: 1em; color: #ccc; }
+  .bold { font-weight: bold; color: #88ba14; }
+  
+  table { width: 100%; border-collapse: collapse; }
+  table tr { border-bottom: 1px solid #88ba14; border-top: 1px solid #88ba14; }
+  table td { vertical-align: top; padding: 0.5em; }
+  #weihnachtsaktion {
+	  display: block;
+	  background-color:red;
+	  border: 2px dotted yellow;
+  }
+  #weihnachtsaktion div {
+	  display: block;
+	  background-color: white;
+  }
+</style>
+
+</head>
+
+<body>
+
+<div class='content'>
+
+<div class='logo'>
+  <img src='../img/enabel_mittel.png' />
+</div>
+
+
+
+<div style="text-align:right;line-height:0;">
+	<a href='../CH-FR/projet.shtml'>FR&nbsp;
+	<a href='../projekte.shtml'>DE&nbsp;
+</div>
+
+
+<div class='navig'>
+	<a href='stiftung.shtml'>Willkommen</a>
+	<a href='projekte.shtml'>Unterstützte Projekte</a>
+	<a href='geschichte.shtml'>Die Stiftung e-na'bel</a>
+	<a href='kontakt.shtml'>Kontakt</a>
+</div>
+
 
 <div>
 
@@ -12,7 +69,7 @@
 <h1>Unterst&uuml;zte Projekte</h1>
 
 <p>
-	Bis jetzt hat die Stiftung folgende Projekte unterst&uuml;zt:
+	Bis jetzt hat die Stiftung folgende Projekte unterst&uuml;zt (Auswahl):
 </p>
 
 <table>
@@ -26,6 +83,14 @@
         </td>
     </tr>
 
+<tr>
+        <td class='bold'>Dezember<br> 2017</td>
+        <td>
+            <b>WASTE@HSG by oikos</b><br>
+           Das Hauptziel unseres Projekts ist es, die Entstehung des Abfalls durch die über 8'000 Studierenden der Universität St.Gallen (HSG) auf ein Minimum zu reduzieren. Um dies zu erreichen, wollen wir an der Universität vom 6. bis 9. März 2018 einen Event veranstalten. Wir möchten die Studentinnen und Studenten damit einerseits auf die Abfallproblematik aufmerksam machen und sie andererseits dazu anregen, ihr Verhalten zu überdenken und langfristig zu ändern.
+            <br>
+        </td>
+    </tr>
 
 <tr>
         <td class='bold'>Mai<br> 2015</td>
@@ -205,3 +270,11 @@ Die Stiftung e-na'bel unterstützte diesen Umbau teilweise.
 
 <!--#include virtual='footer.tmpl' -->
 
+<div class='footer'>
+	&copy; 2010-2024, Stiftung e-na'bel
+</div>
+
+</div>
+
+</body>
+</html>

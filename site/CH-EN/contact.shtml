@@ -1,4 +1,4 @@
-<!--#include virtual='header.tmpl' -->
+﻿<!--#include virtual='header.tmpl' -->
 <!DOCTYPE html>
 <html lang="de">
 
@@ -42,10 +42,13 @@
 </div>
 
 
+
+
 <div style="text-align:right;line-height:0;">
-	<a href='./CH-FR/stiftungsrat.shtml'>FR&nbsp;
-	<a href='./CH-EN/stiftungsrat.shtml'>EN&nbsp;
-</div>
+	<a href='../kontakt.shtml'>DE&nbsp;
+  <a href='../CH-FR/contact.shtml'>FR&nbsp;
+  </div>
+
 
 <div class='navig'>
 	<a href='stiftung.shtml'>Willkommen</a>
@@ -56,20 +59,20 @@
 
 
 <div>
-  <h1>Stiftungsrat</h1>
-  <p>
-	Unser aktueller Stiftungsrat setzt sich aus folgenden Personen zusammen:
-	</p>
-	<p>
-  Angela Mühlenbroich<br/>
-  Raphael Rotondari<br/>
-  Lorenzo De Pietro<br/>
-  Jan-Philipp Kirsch<br/>
-  Michal Sudwoj<br/>
-  </p>
+
+
+
+<br>
+Willst auch du und dein Projekt unterstützt werden? Dann fülle das <a href="./Antragsformular.pdf">Antragsformular</a> aus und sende es per Email an <b>antrag ät enabel.ch</b>!
+
+
+
+
+
 </div>
 
 <!--#include virtual='footer.tmpl' -->
+
 <div class='footer'>
 	&copy; 2010-2024, Stiftung e-na'bel
 </div>

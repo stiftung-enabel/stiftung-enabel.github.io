@@ -1,10 +1,11 @@
 <!--#include virtual='header.tmpl' -->
+
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="de">
 
 <head>
 <meta charset="utf-8" />
-<title>Fondation e-na'bel</title>
+<title>Foundation e-na'bel</title>
 
 <style type="text/css">
   body { line-height: 1.4em; padding: 2em; background: #fff; font-family: Verdana, Arial, sans-serif; font-size: 12px; }
@@ -41,15 +42,17 @@
   <img src='../../img/enabel_mittel.png' />
 </div>
 
+
 <div style="text-align:right;line-height:0;">
-	<a href='../stiftung.shtml'>DE</a>
-	<a href='../CH-EN/foundation.shtml'>EN</a>
+	<a href='../CH-FR/fondation.shtml'>FR&nbsp;
+	<a href='../stiftung.shtml'>DE&nbsp;
 </div>
+
 <div class='navig'>
-	<a href='fondation.shtml'>Bienvenue</a>
-	<a href='projet.shtml'>Les projets soutenus</a>
-	<a href='chronique.shtml'>La Fondation e-na’bel</a>
-	<a href='contact.shtml'>Contact</a>
+	<a href='stiftung.shtml'>Willkommen</a>
+	<a href='projekte.shtml'>Unterstützte Projekte</a>
+	<a href='geschichte.shtml'>Die Stiftung e-na'bel</a>
+	<a href='kontakt.shtml'>Kontakt</a>
 </div>
 
 
@@ -57,24 +60,25 @@
 <div>
 	
 	
-	<h1>As-tu une bonne idée? Et il te manque le capital de départ?</h1>
+	<h1>Hast Du eine gute Idee? Und fehlt Dir das nötige Startkapital?</h1>
 
 	<p>
 		<p>
-		Tu as donc sonné à la bonne porte. La fondation e-na’bel fournit des soutiens financiers (à fonds perdu) aux projets innovateurs et durables, initiés par les étudiants des universités suisses.
+		Dann bist Du bei uns genau richtig.
+		Die Stiftung e-na'bel bietet finanzielle Unterstützung (à fonds perdu) für innovative und nachhaltige Projekte auf Initiative von Studierenden an schweizerischen Hochschulen.
 	</p>
-	<p>	Si
+	<p>	Wenn Deine Idee
 		<ul>
-			<li>ton idée est de caractère novateur…
-			<li>de nombreux étudiants en profitent…
-			<li>ton idée est durable et de longue durée
-			<li>ton idée cultive la vie d'étudiant
-			<li>ton idée met à disposition des moyens afin de faciliter les études
-			<li>…et ton idée n'est pas une formidable fête…
+			<li>Innovationscharakter besitzt...
+			<li>Vielen Studierenden zugute kommt...
+			<li>Nachhaltig und über längere Zeit erhalten bleibt...
+			<li>Das studentische Leben fördert...
+			<li>Das Studium mit Hilfsmitteln erleichtert...
+			<li>...und keine rauschende Party ist...	
 		</ul>
-		…nous devrons nous rencontrer. Envoie-nous ton idée énoncée accompagnée d’un montage financier envisagé. <a href="Antragsformular_FR.pdf">Voici le lien au formulaire de candidature.</a>.
+		...dann müssen wir uns kennenlernen. Formuliere Deine Idee aus und schicke sie zusammen mit einem Finanzierungsplan an uns. <a href="Antragsformular.pdf">Hier geht es zur Bewerbung</a>.
 	</p>
-	<p><a href="projet.shtml">Ici</a>, tu trouveras un aperçu des idées soutenues.
+	<p>Eine Übersicht über unterstützte Ideen findest Du <a href="projekte.shtml">hier</a>.
 	</p>
 <!--
 <h1>News</h1>
@@ -120,7 +124,6 @@ Am 3. Mai 2011 um 18 Uhr im CAB G56. Die Stiftungsräte Justus Lambrecht und Val
 </div>
 
 <!--#include virtual='footer.tmpl' -->
-
 <div class='footer'>
 	&copy; 2010-2024, Stiftung e-na'bel
 </div>
