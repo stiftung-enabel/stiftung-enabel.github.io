@@ -1,17 +1,17 @@
 <!--#include virtual='header.tmpl' -->
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 
 <head>
 <meta charset="utf-8" />
-<title>Stiftung e-na'bel</title>
+<title>Foundation e-na'bel</title>
 
 <style type="text/css">
   body { line-height: 1.4em; padding: 2em; background: #fff; font-family: Verdana, Arial, sans-serif; font-size: 12px; }
   h1 { color: #999; border-bottom: 1px solid #ddd; line-height: 2em; font-size: 1.3em; font-weight: bold; }
   
-	.navig { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; }
-	.navig a { border: 1px solid #999; width: 100px; padding: 0.8em; background: #88ba14; text-decoration: none; color: #eee; font-weight: bold; }
+    .navig { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; }
+    .navig a { border: 1px solid #999; width: 100px; padding: 0.8em; background: #88ba14; text-decoration: none; color: #eee; font-weight: bold; }
   .content { max-width: 800px; margin-left: auto; margin-right: auto; }
   .logo { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; margin-bottom: 1em; }
   .footer { border-top: 1px solid #88ba14; padding-top: 1em; color: #ccc; }
@@ -21,13 +21,13 @@
   table tr { border-bottom: 1px solid #88ba14; border-top: 1px solid #88ba14; }
   table td { vertical-align: top; padding: 0.5em; }
   #weihnachtsaktion {
-	  display: block;
-	  background-color:red;
-	  border: 2px dotted yellow;
+      display: block;
+      background-color:red;
+      border: 2px dotted yellow;
   }
   #weihnachtsaktion div {
-	  display: block;
-	  background-color: white;
+      display: block;
+      background-color: white;
   }
 </style>
 
@@ -43,31 +43,31 @@
 
 
 <div style="text-align:right;line-height:0;">
-	<a href='../CH-FR/chronique.shtml'>FR&nbsp;
-	<a href='../geschichte.shtml'>DE&nbsp;
+    <a href='../CH-FR/chronique.shtml'>FR&nbsp;
+    <a href='../geschichte.shtml'>DE&nbsp;
 </div>
 
 
 <div class='navig'>
-	<a href='foundation.shtml'>Willkommen</a>
-	<a href='projects.shtml'>Unterstützte Projekte</a>
-	<a href='history.shtml'>Die Stiftung e-na'bel</a>
-	<a href='contact.shtml'>Kontakt</a>
+    <a href='foundation.shtml'>Welcome</a>
+    <a href='projects.shtml'>Supported Projects</a>
+    <a href='history.shtml'>The Foundation e-na'bel</a>
+    <a href='contact.shtml'>Contact</a>
 </div>
 
 
 <div>
-<h1>Die Stiftung e-na'bel</h1>
+<h1>The Foundation e-na'bel</h1>
 <p>
-Die Stiftung wurde 2010 ins Leben gerufen und geht aus dem ehemaligen Verlag des AMIV (Akademischer Maschinen- und Elektro-Ingenieur-Verein) der ETH Zürich hervor. Zweck der Stiftung ist die Förderung von studentischen Projekten und Aktivitäten an Schweizerischen Hochschulen.
+The foundation was established in 2010 and originates from the former publishing house of the AMIV (Academic Association of Mechanical and Electrical Engineers) at ETH Zurich. The purpose of the foundation is to promote student projects and activities at Swiss universities.
 </p>
 
-<p><a href="./site/2010.02.03_Statuten_enabel.pdf">Die Statuten als PDF</a>.</p>
+<p><a href="./site/2010.02.03_Statuten_enabel.pdf">The statutes as PDF</a>.</p>
 
 
-  <h1>Der Stiftungsrat</h1>
+  <h1>The Board of Trustees</h1>
   <p>
-  Der Stiftungsrat setzt sich aktuell aus folgenden Personen zusammen:
+  The Board of Trustees currently consists of the following persons:
   </p>
   <p>
   Angela Mühlenbroich<br/>
@@ -80,52 +80,52 @@ Die Stiftung wurde 2010 ins Leben gerufen und geht aus dem ehemaligen Verlag des
 
 
 
-<h1>Geschichte</h1>
+<h1>History</h1>
 
 <table>
 <tr>
   <td class='bold'>2010</td>
-  <td>Die Stiftung e-na’bel ist gegründet und der Stiftungsrat hat seine Arbeit aufgenommen. Der AMIV-Verlag widmet sein Vermögen der Stiftung e-na’bel und löst sich definitiv auf.</td>
+  <td>The foundation e-na’bel is established and the Board of Trustees has started its work. The AMIV publishing house donates its assets to the foundation e-na’bel and dissolves definitively.</td>
 </tr>
 
 <tr>
   <td class='bold'>2008</td>
-  <td>Die Gründung der Stiftung und die Schenkung des Vereinsvermögens wurde beschlossen und der initiale Stiftungsrat gewählt.</td>
+  <td>The establishment of the foundation and the donation of the association's assets were decided and the initial Board of Trustees was elected.</td>
 </tr>
 
 <tr>
   <td class='bold'>2007</td>
-  <td>Die Ausgliederung von CDR und WBS ist abgeschlossen und der Verein verwaltet nun nur noch sein Eigenvermögen.</td>
+  <td>The outsourcing of CDR and WBS is completed and the association now only manages its own assets.</td>
 </tr>
 
 <tr>
   <td class='bold'>2005</td>
-  <td>Die Nachfrage für die Dienstleistung CDR ist stark rückläufig und das WBS ist den Umstrukturierungen an der ETH und dem Volumen nicht mehr gewachsen. Der Verein kämpft gegen das Vorurteil, zum AMIV zu gehören, was die Zusammenarbeit mit allen Parteien innerhalb des VSETH erschwert und teilweise verunmöglicht. Zudem hat der AMIV-Verlag keinen „offiziellen“ Status innerhalb der ETH, da er weder zum VSETH gehört, noch eine Partnerorganisation dessen ist. So wird die Strategie dahingehend geändert, dass der CDR dem SoS eingegliedert werden soll, der bereits ebenfalls die Bearbeitung analoger/digitaler Medien anbietet. Zudem wird die Neuerstellung des WBS vorbereitet und diese dem VSETH eingegliedert. Ziel dieser Abstossung sämtlicher Dienstleistungen ist die Schenkung des Vereinsvermögens an eine zu gründende Stiftung welche das Geld verwalten und in angemessener Form wieder der Studentenschaft zurückführen soll.</td>
+  <td>The demand for the CDR service is declining sharply and the WBS is no longer able to cope with the restructuring at ETH and the volume. The association struggles against the prejudice of belonging to AMIV, which makes cooperation with all parties within VSETH difficult and sometimes impossible. In addition, the AMIV publishing house has no "official" status within ETH, as it neither belongs to VSETH nor is a partner organization of it. Therefore, the strategy is changed so that the CDR is integrated into the SoS, which already offers the processing of analog/digital media. In addition, the re-establishment of the WBS is prepared and this is integrated into VSETH. The goal of this divestment of all services is the donation of the association's assets to a foundation to be established, which will manage the money and return it to the student body in an appropriate form.</td>
 </tr>
 
 <tr>
   <td class='bold'>2000</td>
-  <td>Da die Kalkulierung und Planung für den Verlag von Büchern und Skripten sehr aufwändig und risikoverbunden war, wurde eine neue Dienstleistung WBS (Web Based Services) gegründet, welche Studienmaterial für die Prüfungsvorbereitung anbot. Der Verlag setzte damit erstmals auf print-on-demand was die Kosten sowohl für Studenten als auch für den Verein senkte.</td>
+  <td>Since the calculation and planning for the publishing of books and scripts was very time-consuming and risky, a new service WBS (Web Based Services) was established, which offered study material for exam preparation. The publishing house thus relied on print-on-demand for the first time, which reduced costs for both students and the association.</td>
 </tr>
 
 <tr>
-  <td class='bold'>90er&nbsp;Jahre</td>
-  <td>Die Dienstleistung CDR (CD Recording) wurde gegründet, welche das Erstellen von CDs und allgemein das Digitalisieren von analogen Medien (Film, Ton) ermöglichte.</td>
+  <td class='bold'>90s</td>
+  <td>The CDR (CD Recording) service was established, which enabled the creation of CDs and the digitization of analog media (film, sound).</td>
 </tr>
 
 <tr>
-  <td class='bold'>70er&nbsp;Jahre</td>
-  <td>Da der AMIV-Verlag ein grosses Vermögen seit seiner Gründung erwirtschaftet hat war der Verlag als Kommission des AMIV nicht mehr tragbar und so wurde ein eigenständiger Verein gegründet und die Verlagstätigkeit aus dem AMIV ausgegliedert.</td>
+  <td class='bold'>70s</td>
+  <td>Since the AMIV publishing house had accumulated a large fortune since its founding, the publishing house was no longer sustainable as a commission of AMIV and an independent association was founded, and the publishing activity was spun off from AMIV.</td>
 </tr>
 
 <tr>
-  <td class='bold'>60er&nbsp;Jahre</td>
-  <td>Gründung des SAB durch den AMIV-Verlag um Skripte zu verkaufen.</td>
+  <td class='bold'>60s</td>
+  <td>Establishment of the SAB by the AMIV publishing house to sell scripts.</td>
 </tr>
 
 <tr>
   <td class='bold'>1909</td>
-  <td>Der Verlag des AMIV an der ETH gibt sein erstes Skript heraus. Der Verlag war zuständig für den Druck von Vorlesungsskripten.</td>
+  <td>The AMIV publishing house at ETH publishes its first script. The publishing house was responsible for printing lecture scripts.</td>
 </tr>
 
 </table>
@@ -134,7 +134,7 @@ Die Stiftung wurde 2010 ins Leben gerufen und geht aus dem ehemaligen Verlag des
 
 <!--#include virtual='footer.tmpl' -->
 <div class='footer'>
-	&copy; 2010-2024, Stiftung e-na'bel
+    &copy; 2010-2024, Foundation e-na'bel
 </div>
 
 </div>

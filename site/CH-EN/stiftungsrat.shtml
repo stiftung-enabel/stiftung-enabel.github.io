@@ -1,17 +1,17 @@
 <!--#include virtual='header.tmpl' -->
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 
 <head>
 <meta charset="utf-8" />
-<title>Stiftung e-na'bel</title>
+<title>Foundation e-na'bel</title>
 
 <style type="text/css">
   body { line-height: 1.4em; padding: 2em; background: #fff; font-family: Verdana, Arial, sans-serif; font-size: 12px; }
   h1 { color: #999; border-bottom: 1px solid #ddd; line-height: 2em; font-size: 1.3em; font-weight: bold; }
   
-	.navig { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; }
-	.navig a { border: 1px solid #999; width: 100px; padding: 0.8em; background: #88ba14; text-decoration: none; color: #eee; font-weight: bold; }
+    .navig { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; }
+    .navig a { border: 1px solid #999; width: 100px; padding: 0.8em; background: #88ba14; text-decoration: none; color: #eee; font-weight: bold; }
   .content { max-width: 800px; margin-left: auto; margin-right: auto; }
   .logo { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; margin-bottom: 1em; }
   .footer { border-top: 1px solid #88ba14; padding-top: 1em; color: #ccc; }
@@ -21,13 +21,13 @@
   table tr { border-bottom: 1px solid #88ba14; border-top: 1px solid #88ba14; }
   table td { vertical-align: top; padding: 0.5em; }
   #weihnachtsaktion {
-	  display: block;
-	  background-color:red;
-	  border: 2px dotted yellow;
+      display: block;
+      background-color:red;
+      border: 2px dotted yellow;
   }
   #weihnachtsaktion div {
-	  display: block;
-	  background-color: white;
+      display: block;
+      background-color: white;
   }
 </style>
 
@@ -43,24 +43,24 @@
 
 
 <div style="text-align:right;line-height:0;">
-	<a href='../CH-FR/stiftungsrat.shtml'>FR&nbsp;
-	<a href='../stiftungsrat.shtml'>EN&nbsp;
+    <a href='../CH-FR/stiftungsrat.shtml'>FR&nbsp;
+    <a href='../stiftungsrat.shtml'>EN&nbsp;
 </div>
 
 
 <div class='navig'>
-	<a href='foundation.shtml'>Willkommen</a>
-	<a href='projects.shtml'>Unterstützte Projekte</a>
-	<a href='history.shtml'>Die Stiftung e-na'bel</a>
-	<a href='contact.shtml'>Kontakt</a>
+    <a href='foundation.shtml'>Welcome</a>
+    <a href='projects.shtml'>Supported Projects</a>
+    <a href='history.shtml'>The Foundation e-na'bel</a>
+    <a href='contact.shtml'>Contact</a>
 </div>
 
 <div>
-  <h1>Stiftungsrat</h1>
+  <h1>Board of Trustees</h1>
   <p>
-	Unser aktueller Stiftungsrat setzt sich aus folgenden Personen zusammen:
-	</p>
-	<p>
+    Our current board of trustees consists of the following persons:
+    </p>
+    <p>
   Angela Mühlenbroich<br/>
   Raphael Rotondari<br/>
   Lorenzo De Pietro<br/>
@@ -71,7 +71,7 @@
 
 <!--#include virtual='footer.tmpl' -->
 <div class='footer'>
-	&copy; 2010-2024, Stiftung e-na'bel
+    &copy; 2010-2024, Foundation e-na'bel
 </div>
 
 </div>
