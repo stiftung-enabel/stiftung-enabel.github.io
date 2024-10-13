@@ -1,11 +1,10 @@
 ﻿<!--#include virtual='header.tmpl' -->
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
 <meta charset="utf-8" />
-<title>Foundation e-na'bel</title>
+<title>Supported Projects</title>
 
 <style type="text/css">
   body { line-height: 1.4em; padding: 2em; background: #fff; font-family: Verdana, Arial, sans-serif; font-size: 12px; }
@@ -61,17 +60,10 @@
 <div>
 
 <h1>Application Form</h1>
-
-<p>
-  <a href='form_en.pdf'>Application Form</a>
-</p>
-
 <h1>Supported Projects</h1>
-
 <p>
-  So far, the foundation has supported the following projects (selection):
+    Here you can find information about the projects supported by the Foundation e-na'bel.
 </p>
-
 <table>
 <tr>
         <td class='bold'>December<br> 2017</td>
