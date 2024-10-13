@@ -10,8 +10,8 @@
   body { line-height: 1.4em; padding: 2em; background: #fff; font-family: Verdana, Arial, sans-serif; font-size: 12px; }
   h1 { color: #999; border-bottom: 1px solid #ddd; line-height: 2em; font-size: 1.3em; font-weight: bold; }
   
-	.navig { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; }
-	.navig a { border: 1px solid #999; width: 100px; padding: 0.8em; background: #88ba14; text-decoration: none; color: #eee; font-weight: bold; }
+    .navig { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; }
+    .navig a { border: 1px solid #999; width: 100px; padding: 0.8em; background: #88ba14; text-decoration: none; color: #eee; font-weight: bold; }
   .content { max-width: 800px; margin-left: auto; margin-right: auto; }
   .logo { border-bottom: 1px solid #88ba14; padding: 0 0 1em 0; margin-bottom: 1em; }
   .footer { border-top: 1px solid #88ba14; padding-top: 1em; color: #ccc; }
@@ -21,13 +21,13 @@
   table tr { border-bottom: 1px solid #88ba14; border-top: 1px solid #88ba14; }
   table td { vertical-align: top; padding: 0.5em; }
   #weihnachtsaktion {
-	  display: block;
-	  background-color:red;
-	  border: 2px dotted yellow;
+      display: block;
+      background-color:red;
+      border: 2px dotted yellow;
   }
   #weihnachtsaktion div {
-	  display: block;
-	  background-color: white;
+      display: block;
+      background-color: white;
   }
 </style>
 
@@ -44,8 +44,8 @@
 
 
 <div style="text-align:right;line-height:0;">
-	<a href='../CH-FR/projet.shtml'>FR&nbsp;
-	<a href='../projekte.shtml'>DE&nbsp;
+    <a href='../CH-FR/projet.shtml'>FR&nbsp;
+    <a href='../projekte.shtml'>DE&nbsp;
 </div>
 
 
@@ -100,84 +100,79 @@
     </tr>
     
 <tr>
-	    <td class='bold'>April<br> 2014</td>
-	    <td>
-	  <b>Freiluftlichtbildschaukommission (FliK)</b><br>
-Die Freiluftlichtbildschau ist ein traditionelles Open-Air-Kino, welches bereits im zehn-
-ten Jahr auf dem Campus ETH Hönggerberg stattﬁndet. Die Vorführungen ﬁnden 2014
-am 20. und 21. Mai in der vorletzten Semesterwoche statt.
-Das Kino wird vom Studentenverband der ETH Zürich (VSETH) organisiert. Um den
-Studenten einen angenehmen Ausklang des Semesters zu bieten, ist der Eintritt frei
-und es wird versucht, jedes Jahr mindestens eine Vorpremiere zu zeigen. Pro Abend
-besuchen etwa 1000 Personen die Vorführung.
-	  <br>
-	  <br>
-	  <a href="http://www.freiluft.ethz.ch/">www.freiluft.ethz.ch</a>
-	  </td>
-	  </tr>
+        <td class='bold'>April<br> 2014</td>
+        <td>
+      <b>Freiluftlichtbildschaukommission (FliK)</b><br>
+The open-air cinema is a traditional open-air cinema that has been held for ten years on the ETH Hönggerberg campus. The screenings will take place in 2014 on May 20 and 21 in the penultimate week of the semester.
+The cinema is organized by the Student Association of ETH Zurich (VSETH). To provide students with a pleasant end to the semester, admission is free and an attempt is made to show at least one premiere each year. About 1000 people attend the screening each evening.
+      <br>
+      <br>
+      <a href="http://www.freiluft.ethz.ch/">www.freiluft.ethz.ch</a>
+      </td>
+      </tr>
 
 
 
 
 
 <tr>
-	    <td class='bold'>Dezember<br> 2013</td>
-	    <td>
-	  <b>Digitaler Filmprojektor für die Filmstelle des VSETH</b><br>
-Die Filmstelle ist eine Kommission des Verbands der Studierenden der ETH (VSETH). Sie wurde 1924 gegründet und zeigt seither regelmässig ansprechende und unterhaltsame Filme. Die Filmstelle versteht sich als wichtiger Bestandteil des kulturellen Lebens der ETH Zürich. <br>
-Zur Zeit werden alle Filme analog mit einem 35mm-Projektor gezeigt. Da ab 2010 neue Filme nur noch digital vertrieben werden und die 35mm-Filme nicht mehr restauriert werden und langsam verfallen, ist die Existenz dieses ältesten Programmkinos von Zürich gefährdet. Aus diesem Grund unterstützt die Stiftung e-na'bel die Filmstelle beim Kauf eines neuen digitalen Kinoprojektors.
-	  <br>
-	  <br>
-	  <a href="http://www.filmstelle.ch/">www.filmstelle.ch</a>
-	  </td>
-	  </tr>
+        <td class='bold'>December<br> 2013</td>
+        <td>
+      <b>Digital Film Projector for the VSETH Filmstelle</b><br>
+The Filmstelle is a commission of the Association of Students of ETH (VSETH). It was founded in 1924 and has since regularly shown appealing and entertaining films. The Filmstelle sees itself as an important part of the cultural life of ETH Zurich. <br>
+Currently, all films are shown analog with a 35mm projector. Since new films have only been distributed digitally since 2010 and the 35mm films are no longer being restored and are slowly decaying, the existence of this oldest repertory cinema in Zurich is at risk. For this reason, the e-na'bel Foundation supports the Filmstelle in purchasing a new digital cinema projector.
+      <br>
+      <br>
+      <a href="http://www.filmstelle.ch/">www.filmstelle.ch</a>
+      </td>
+      </tr>
 
 
 
 
 <tr>
-	    <td class='bold'>November<br> 2013</td>
-	    <td>
-	  <b>UAEM Europa-Konferenz 2014 in Basel</b><br>
-UAEM (Universities Allied for Esssential Medicine) ist ein interdisziplinäres Netzwerk von Studierenden, welche sich auf internationalem und lokalem Level (Universitäten) für eine globale Gesundheit und einen gerechten Zugang zu essentiellen Medikamenten in Entwicklungsländern engagiert. Die UAEM Europa-Konferenz in Basel dient als Plattform für die diversen Projektgruppen verschiedener Länder sich durch Vorträge von Experten (MSF, WHO) und anhand Workshops zum Thema fortzubilden, Erfahrungen und kreative Ideen auszutauschen und gemeinsam neue Projekte anzugehen. So ist sie einerseits ein Ort der internationalen Vernetzung, andererseits eine Art studentischer Think-Tank, globale Probleme der Gesundheitspolitik innovativ anzugehen.
-	  <br>
-	  <br>
-	  <a href="http://www.uaem-europe.org/">www.uaem-europe.org</a>
-	  </td>
-	  </tr>
+        <td class='bold'>November<br> 2013</td>
+        <td>
+      <b>UAEM Europe Conference 2014 in Basel</b><br>
+UAEM (Universities Allied for Essential Medicine) is an interdisciplinary network of students who are committed to global health and equitable access to essential medicines in developing countries at both international and local levels (universities). The UAEM Europe Conference in Basel serves as a platform for the various project groups from different countries to educate themselves on the topic through lectures by experts (MSF, WHO) and workshops, exchange experiences and creative ideas, and tackle new projects together. Thus, it is both a place of international networking and a kind of student think tank to address global health policy issues innovatively.
+      <br>
+      <br>
+      <a href="http://www.uaem-europe.org/">www.uaem-europe.org</a>
+      </td>
+      </tr>
 
 
 
-	  <tr>
-	    <td class='bold'>Mai<br> 2013</td>
-	    <td>
-	  <b>SPOD - Student Print on Demand</b><br>
-SPOD bietet seit vielen Jahren unerlässlichen Support für erfolgsorientierte Studenten an der ETH Zürich. Sie haben in jüngster Vergangenheit enorme Anstrengungen unternommen um den Verein in seiner Organisation, Infrastruktur und Mitarbeiterausstattung zukunftsfähig zu machen. Mit Unterstützung von der Stiftung e-na'bel konnte das Angebot durch Zukauf einer speziellen automatisierten Schneidemaschine erweitert werden. Dadurch wird SPOD auch weiterhin einen wichtigen Beitrag für die erfolgreiche Organisation eines Studiums an der ETH Zürich leisten können.<br>
-	  <br>
-	  <a href="https://shop.spod.ethz.ch/spod">shop.spod.ethz.ch/spod</a>
-	  </td>
-	  </tr>
+      <tr>
+        <td class='bold'>May<br> 2013</td>
+        <td>
+      <b>SPOD - Student Print on Demand</b><br>
+SPOD has been providing essential support for success-oriented students at ETH Zurich for many years. Recently, they have made tremendous efforts to make the organization, infrastructure, and staffing of the association future-proof. With support from the e-na'bel Foundation, the offering was expanded by purchasing a special automated cutting machine. This will allow SPOD to continue making an important contribution to the successful organization of studies at ETH Zurich.<br>
+      <br>
+      <a href="https://shop.spod.ethz.ch/spod">shop.spod.ethz.ch/spod</a>
+      </td>
+      </tr>
 
-	  <tr>
-	    <td class='bold'>April<br> 2013</td>
-	    <td>
-	  <b>VSOS - SOSETH virtual machine hosting</b><br>
-	Ziel des “Projekt VSOS” ist es interessierten Studenten und studentischen Organisationen virtuelle Server gratis zur Verfügung zu stellen. Damit können diese zum Beispiel einen eigenen Web- oder Mailserver betreiben, oder auch Dokumente und Programme dort ablegen oder publizieren.
-	Den Studenten soll damit unter Anderem durch den Zugang zu dieser Technologie ermöglicht werden den Umgang damit praktisch zu erlernen. Also z.B. das Administrieren eines Linux-Servers oder der gesamten Cluster-Infrastruktur unter Begleitung und Mithilfe vom VSOS-Admin-Team.<br/>  
+      <tr>
+        <td class='bold'>April<br> 2013</td>
+        <td>
+      <b>VSOS - SOSETH virtual machine hosting</b><br>
+The goal of the "Project VSOS" is to provide interested students and student organizations with free virtual servers. This allows them to, for example, run their own web or mail server, or store and publish documents and programs there.
+Students are thus enabled to practically learn how to handle this technology, such as administering a Linux server or the entire cluster infrastructure, with the support and assistance of the VSOS admin team.<br/>  
 
-Ein erheblicher Anteil dieses Ausbaus wurde von e-na'bel finanziert.<br>
-	  <br>
-	  <a href="http://sos.ethz.ch/ressorts/vsos/">sos.ethz.ch/ressorts/vsos/</a>
-	  </td>
-	  </tr>
+A significant portion of this expansion was funded by e-na'bel.<br>
+      <br>
+      <a href="http://sos.ethz.ch/ressorts/vsos/">sos.ethz.ch/ressorts/vsos/</a>
+      </td>
+      </tr>
 
   <tr>
     <td class='bold'>April<br> 2013</td>
     <td>
-  <b>EESTEC LC Zürich</b><br>
-  EESTEC ist eine nicht politische, non-profit Organisation von und für Studenten der Fächer Elektrotechnik, Informatik und Maschinenbau aus Universitäten in ganz Europa. EESTEC LC Zürich führt 2013 einen Workshop mit dem Motto Slot Engines Xtreme durch. Es geht dabei darum einen Elektromotor für einen Siot Car zu bauen. Am Ende der Woche können die gebauten Fahrzeuge auf einer Rennbahn im Wettkampf getestet werden.<br/>  
+  <b>EESTEC LC Zurich</b><br>
+EESTEC is a non-political, non-profit organization by and for students of electrical engineering, computer science, and mechanical engineering from universities across Europe. EESTEC LC Zurich is conducting a workshop in 2013 with the motto Slot Engines Xtreme. The goal is to build an electric motor for a slot car. At the end of the week, the built vehicles can be tested on a racetrack in a competition.<br/>  
   
-Die Stiftung e-na'bel hat die Durchführung dieses Workshops von EESTEC unterstützt.<br>
+The e-na'bel Foundation supported the implementation of this workshop by EESTEC.<br>
   <br>
   <a href="http://eestec.net/lc/zurich">eestec.net/lc/zurich</a>
   </td>
@@ -185,13 +180,11 @@ Die Stiftung e-na'bel hat die Durchführung dieses Workshops von EESTEC unterst�
 
 
 <tr>
-  <td class='bold'>März<br> 2012</td>
+  <td class='bold'>March<br> 2012</td>
   <td>
-<b>Studentische Sandwichbar <i>ETZetera</i></b><br>
-Das ETZetera ist eine studentische Sandwichbar im Gebäude ETZ der ETH Zürich, welche ein hochwertiges Verpflegungsangebot zu studentenfreundlichen 
-Preisen an der ETH anbietet. Trotz der tiefen Preise wird Wert auf frische und hochwertige Zutaten gelegt und alle Sandwiches werden von freiwilligen Helfern in Handarbeit 
-selbst hergestellt und verkauft.<br/>
-Die Stiftung e-na'bel hat die Realisierung von ETZetera mitunterstützt.<br>
+<b>Student Sandwich Bar <i>ETZetera</i></b><br>
+ETZetera is a student sandwich bar in the ETZ building of ETH Zurich, offering high-quality food at student-friendly prices. Despite the low prices, emphasis is placed on fresh and high-quality ingredients, and all sandwiches are handmade and sold by volunteer helpers.<br/>
+The e-na'bel Foundation supported the realization of ETZetera.<br>
 <br>
 <a href="http://www.etzetera.ch">www.etzetera.ch</a>
 </td>
@@ -199,16 +192,12 @@ Die Stiftung e-na'bel hat die Realisierung von ETZetera mitunterstützt.<br>
 
 
 <tr>
-  <td class='bold'>Dezember<br> 2011</td>
+  <td class='bold'>December<br> 2011</td>
   <td>
-<b>Neukomposition für die Kanadatournee des Akademischen Orchesters Zürich</b><br>
-Das Akademische Orchester Zürich, welches das gemeinsame Symphonieorchester der ETH und Universität Zürich ist, steht allen Studierenden und Assistierenden offen. 
-Mit seinem hohen technischen und musikalischen Niveau zählt das AOZ heute zu den besten Laienorchestern der Schweiz. In regelmässigen Abständen werden 
-Orchesterwerke wie auch Solistenkonzerte erarbeitet. Ein Ziel besteht darin, junge, hoffnungsvolle Solistinnen und Solisten vorzustellen. Auch das Mitwirken 
-an akademischen Feiern gehört zu den Aktivitäten des Orchesters. Verschiedene Konzertreisen ins Ausland führten zu erfolgreichen Auftritten unter anderem in Prag, Wien, Amsterdam, Kopenhagen, Mailand, Imola, Rom, Osaka, Tokyo, 
-Singapur und Kuala Lumpur.
-Vom 2.-14. Juli 2012 führt das AOZ eine Kanadatournee durch und spielt unter anderem eine Neukomposition des jungen kanadischen Komponisten, Eric Champagne, welche extra für 
-das AOZ komponiert wurde. Die Stiftung e-na'bel hat einen Teil der Komposition mitfinanziert, da dies aus aus unserer Sicht die am längsten bestehende Investition des Projekts ist.
+<b>New Composition for the Canada Tour of the Academic Orchestra Zurich</b><br>
+The Academic Orchestra Zurich, which is the joint symphony orchestra of ETH and the University of Zurich, is open to all students and assistants. 
+With its high technical and musical level, the AOZ is today one of the best amateur orchestras in Switzerland. Regularly, orchestral works as well as soloist concerts are worked on. One goal is to introduce young, promising soloists. Participation in academic celebrations is also part of the orchestra's activities. Various concert tours abroad have led to successful performances in Prague, Vienna, Amsterdam, Copenhagen, Milan, Imola, Rome, Osaka, Tokyo, Singapore, and Kuala Lumpur.
+From July 2-14, 2012, the AOZ will conduct a Canada tour and will play, among other things, a new composition by the young Canadian composer, Eric Champagne, which was specially composed for the AOZ. The e-na'bel Foundation partially financed the composition, as this is, in our view, the longest-lasting investment of the project.
 
 <br><br>
 <a href="http://www.aoz.ethz.ch/">www.aoz.ethz.ch/</a>
@@ -219,11 +208,8 @@ das AOZ komponiert wurde. Die Stiftung e-na'bel hat einen Teil der Komposition m
 <tr>
   <td class='bold'>November<br> 2011</td>
   <td>
-<b>PCB-Fräse für studentisches Elektroniklabor <i>Bastli</i></b><br>
-Der <i>Bastli</i> ist die Kommission des AMIV (Akademischer Maschinen- und Elektro-Ingenieur Verein an der ETH), welche den Studenten 
-einen guten Zugang zur praktischen Seite des Studiums ermöglicht. Der <i>Bastli</i> betreibt ein Elektroniklabor mit modernen Messgeräten, 
-jeder Menge Laborausrüstung und Werkzeugen. Zusätzlich profitieren die Studenten von einem Bauteileshop und grossem Fachwissen. Als neuen 
-Dienst können Platinen effizient und kostengünstig auf einer PCB-Fräse hergestellt werden, welche die Stiftung e-na'bel mitfinanziert hat.<br>
+<b>PCB Milling Machine for the Student Electronics Lab <i>Bastli</i></b><br>
+The <i>Bastli</i> is the commission of the AMIV (Academic Association of Mechanical and Electrical Engineering Students at ETH), which provides students with good access to the practical side of their studies. The <i>Bastli</i> operates an electronics lab with modern measuring devices, plenty of lab equipment, and tools. Additionally, students benefit from a component shop and extensive expertise. As a new service, PCBs can be efficiently and cost-effectively manufactured on a PCB milling machine, which was co-financed by the e-na'bel Foundation.<br>
 <br>
 <a href="http://www.bastli.ethz.ch">www.bastli.ethz.ch</a>
 </td>
@@ -231,14 +217,14 @@ Dienst können Platinen effizient und kostengünstig auf einer PCB-Fräse herges
 
 
 <tr>
-  <td class='bold'>Januar<br> 2011</td>
+  <td class='bold'>January<br> 2011</td>
   <td>
-<b>Netzwerkbar</b><br>
-Die <i>Netzwerkbar</i> ist ein Verein zur Förderung der zwischenmenschlichen Kontakte in der Studentensiedlung Bülachstrasse. 
-Die Bar folgt dem non-profit Gedanken, wird ehrenamtlich von Studenten geführt und bietet jeden Mittwochabend Getränke zu moderaten Preisen an. 
-Das Ziel der Bar ist, den Studenten eine Atmosphäre zu bieten um bei einem Getränk den studentischen Alltag hinter sich zu lassen und um sich gegenseitig Kennenzulernen.<br> 
-Die Zeit hat nach mehrjähirger Nutzung ihren Spuren an der Bar und dem Mobiliar hinterlassen, was eine Renovation nötig machte. 
-Die Stiftung e-na'bel unterstützte diesen Umbau teilweise.
+<b>Network Bar</b><br>
+The <i>Network Bar</i> is an association to promote interpersonal contacts in the student residence Bülachstrasse. 
+The bar follows the non-profit idea, is run voluntarily by students, and offers drinks at moderate prices every Wednesday evening. 
+The goal of the bar is to provide students with an atmosphere to leave behind the student everyday life with a drink and to get to know each other.<br> 
+Time has left its marks on the bar and the furniture after several years of use, making a renovation necessary. 
+The e-na'bel Foundation partially supported this renovation.
 </td>
 </tr>
 
