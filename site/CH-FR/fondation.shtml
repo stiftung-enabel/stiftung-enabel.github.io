@@ -42,8 +42,8 @@
 </div>
 
 <div style="text-align:right;line-height:0;">
-	<a href='../stiftung.shtml'>DE</a>
-	<a href='../CH-EN/foundation.shtml'>EN</a>
+	<a style="text-decoration:none;" href='../stiftung.shtml'>DE</a>
+	<a style="text-decoration:none;" href='../CH-EN/foundation.shtml'>EN</a>
 </div>
 <div class='navig'>
 	<a href='fondation.shtml'>Bienvenue</a>

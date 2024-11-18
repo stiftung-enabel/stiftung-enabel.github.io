@@ -42,8 +42,8 @@
 </div>
 
 <div style="text-align:right;line-height:0;">
-	<a href='../kontakt.shtml'>DE</a>
-	<a href='../CH-EN/contact.shtml'>EN</a>
+	<a style="text-decoration:none;" href='../kontakt.shtml'>DE</a>
+	<a style="text-decoration:none;" href='../CH-EN/contact.shtml'>EN</a>
 </div>
 
 <div class='navig'>

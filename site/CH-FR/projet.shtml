@@ -42,8 +42,8 @@
 </div>
 
 <div style="text-align:right;line-height:0;">
-	<a href='../projekte.shtml'>DE</a>
-	<a href='../CH-EN/projects.shtml'>EN</a>
+	<a style="text-decoration:none;" href='../projekte.shtml'>DE</a>
+	<a style="text-decoration:none;" href='../CH-EN/projects.shtml'>EN</a>
 </div>
 
 <div class='navig'>

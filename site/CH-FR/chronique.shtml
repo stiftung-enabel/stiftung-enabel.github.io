@@ -43,8 +43,8 @@
 
 
 <div style="text-align:right;line-height:0;">
-	<a href='../geschichte.shtml'>DE</a>
-	<a href='../CH-EN/history.shtml'>EN</a>
+	<a style="text-decoration:none;" href='../geschichte.shtml'>DE</a>
+	<a style="text-decoration:none;" href='../CH-EN/history.shtml'>EN</a>
 </div>
 
 
