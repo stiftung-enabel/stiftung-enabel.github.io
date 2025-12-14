@@ -65,7 +65,53 @@
     Here you can find information about the projects supported by the Foundation e-na'bel.
 </p>
 <table>
-<tr>
+
+  <tr>
+    <td class='bold'>2024</td>
+    <td>
+      <b>Project aCentauri</b><br>
+      aCentauri is an interdisciplinary team of over 50 students from Switzerland developing a solar car for the 3,000 km Bridgestone World Solar Challenge in Australia. The project promotes sustainable mobility and practical engineering skills.
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td class='bold'>2024</td>
+    <td>
+      <b>Project HERMES – Engine Test Bench (ETB)</b><br>
+      A team of 10 students is developing a reusable test bench for cryogenic rocket engines up to 15 kN thrust. The ETB enables safe testing, vertical engine ignitions and serves as infrastructure for future ARIS missions. The goal is hands-on training in state-of-the-art rocket technology.
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td class='bold'>2024</td>
+    <td>
+      <b>Alternative Social Media Platform</b><br>
+      The project develops a privacy-preserving social-media platform that operates without central servers or algorithmic attention manipulation. Communication is based on Bluetooth and physical proximity. The aim is to foster genuine encounters in the digital space.
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td class='bold'>2024</td>
+    <td>
+      <b>Project Wonderfill</b><br>
+      Wonderfill installs smart water stations at universities providing filtered, chilled and optionally flavoured water free of charge. The goal is to reduce single-use plastic and promote healthy hydration. Expansion to 20 locations strengthens campus sustainability.
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td class='bold'>2024</td>
+    <td>
+      <b>Project Student Project House (SPH) - Infrastructure Expansion</b><br>
+      The SPH is ETH's student innovation platform supporting over 500 projects annually with well-equipped makerspaces and co-working areas. To improve use of heavily frequented co-working spaces, SPH plans to add more workstations and soundproof meeting pods to create quiet zones for meetings and focused work.
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
         <td class='bold'>December<br> 2017</td>
         <td>
             <b>LoRa Winterthur</b><br>
