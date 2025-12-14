@@ -71,15 +71,61 @@
 </p>
 
 <table>
-<tr>
-        <td class='bold'>Dezember<br> 2017</td>
-        <td>
-            <b>LoRa Winterthur</b><br>
-           Aufbau von 6 Gateways für das frei verfügbare LoRa-Funknetzwerk TTN. Die Gateways versorgen das Stadtgebiet Winterthur mit dem Funknetzwerk und bilden die Schnittstelle zwischen Funknetzwerk und dem Internet. Ergänzend dazu soll Hardware (Arduino basiert) angeschafft werden, um Workshops anzubieten in denen Sensoren mit dem LoRa-Funknetzwerk verbunden werden können. Das Knowhow wie das Netz aufgebaut werden muss, hat das Fablab Winti seit 2016 mit Testversuchen gesammelt.            <br>
-            <br>
-            <a href="http://www.fablabwinti.ch/">www.fablabwinti.ch</a>
-        </td>
-    </tr>
+
+  <tr>
+    <td class='bold'>2024</td>
+    <td>
+      <b>Projekt aCentauri</b><br>
+      aCentauri ist ein interdisziplinäres Team von über 50 Studierenden aus der Schweiz, das ein Solarauto für die 3'000 km lange Bridgestone World Solar Challenge in Australien entwickelt. Ziel ist die Förderung nachhaltiger Mobilität und praktischer Ingenieurkompetenz.
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td class='bold'>2024</td>
+    <td>
+      <b>Projekt HERMES – Engine Test Bench (ETB)</b><br>
+      Ein Team von 10 Studierenden entwickelt einen wiederverwendbaren Prüfstand für kryogene Raketenmotoren bis 15 kN Schub. Der ETB ermöglicht sichere Tests, vertikale Triebwerkszündungen und dient als Infrastruktur für künftige Missionen bei ARIS. Ziel ist praxisnahe Ausbildung in modernster Raketentechnologie.
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td class='bold'>2024</td>
+    <td>
+      <b>Alternative Social Media Plattform</b><br>
+      Das Projekt entwickelt eine datensichere Social-Media-Plattform, die komplett ohne zentrale Server und algorithmische Aufmerksamkeitslenkung funktioniert. Der Austausch basiert auf Bluetooth und physischer Nähe. Ziel ist es, echte Begegnungen im digitalen Raum zu fördern.
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td class='bold'>2024</td>
+    <td>
+      <b>Projekt Wonderfill</b><br>
+      Wonderfill installiert smarte Getränkestationen an Hochschulen, die gefiltertes, gekühltes und auf Wunsch aromatisiertes Wasser kostenlos bereitstellen. Ziel ist es, Einwegplastik zu reduzieren und gesunde Hydration zu fördern. Die Ausweitung auf 20 Standorte stärkt Nachhaltigkeit im Hochschulalltag.
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td class='bold'>2024</td>
+    <td>
+      <b>Projekt Student Project House (SPH) - Ausbau der Infrastruktur</b><br>
+      Das SPH ist ETHs Innovationsplattform für Studierende und unterstützt jährlich über 500 Projekte mit modern ausgestatteten Makerspaces und Co-Working-Zonen. Ziel ist es, Neugier und unternehmerisches Denken zu fördern sowie praxisnahe Fähigkeiten jenseits des Curriculums zu entwickeln. Zur besseren Nutzung der stark frequentierten Co-Working-Flächen plant das SPH die Installation zusätzlicher Arbeitsplätze und schallisolierter Meeting-Boxen. Diese sollen ruhige Zonen für Gespräche und konzentriertes Arbeiten schaffen – ein wachsender Bedarf in der lebendigen SPH-Community.
+      <br><br>
+    </td>
+  </tr>
+
+  <tr>
+    <td class='bold'>Dezember<br> 2017</td>
+    <td>
+      <b>LoRa Winterthur</b><br>
+       Aufbau von 6 Gateways für das frei verfügbare LoRa-Funknetzwerk TTN. Die Gateways versorgen das Stadtgebiet Winterthur mit dem Funknetzwerk und bilden die Schnittstelle zwischen Funknetzwerk und dem Internet. Ergänzend dazu soll Hardware (Arduino basiert) angeschafft werden, um Workshops anzubieten in denen Sensoren mit dem LoRa-Funknetzwerk verbunden werden können. Das Knowhow wie das Netz aufgebaut werden muss, hat das Fablab Winti seit 2016 mit Testversuchen gesammelt.            <br>
+      <br>
+      <a href="http://www.fablabwinti.ch/">www.fablabwinti.ch</a>
+    </td>
+  </tr>
 
 <tr>
         <td class='bold'>Dezember<br> 2017</td>
